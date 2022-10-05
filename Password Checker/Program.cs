@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PasswordChecker;
+using System;
 
 namespace Password_Checker
 {
